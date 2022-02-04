@@ -16,4 +16,50 @@
 # EVALUATED MODEL FOR MOVIE REVIEW
 ![EVALUATE MODEL 1](https://user-images.githubusercontent.com/90760938/152488641-01e8f2b2-5e97-4316-8e7c-ec41f5ef966a.PNG)
 ![EVULATE MODEL 2](https://user-images.githubusercontent.com/90760938/152488672-bdf2c7c1-e8a3-48dc-8fe0-e72261d1548a.PNG)
+# DETAILES DESCRIPTION
+Create Project/Experiment and import movie rating data set from saved dataset samples. After creating experiment, we need to drag and drop the required modules in canvas.
 
+I have used the below modules for my experiment in the given order:
+
+
+
+  DATA SET:
+ 
+     Data set required for experiment is added
+   
+  IMDB MOVIE TITLES:
+ 
+    This data set consists of movie id and movie names.
+   
+  Editing Metadata:
+ 
+    Used to change data type of fields, etc.
+   
+  Join data:
+ 
+    Used to join the above two dataset.
+   
+  Select column in dataset:
+ 
+    Select columns to inclue or exclude from a dataset in an operation.formerly known as project columns.
+   
+  Remove duplicate rows:
+ 
+    Remove the duplicate rows from a dataset.
+   
+  Split data:
+ 
+    split the rows of a dataset into two distinct areas,here the dataset is splitted into Train and Score matchbox recommender.
+   
+  Train matchbox recommender:
+ 
+    Train a bayesian recommender using the matchbox algorithm.
+   
+  Score matchbox recommender:
+ 
+    It scores a dataset using matchbox recommender.
+   
+  Evaluate recommender:
+ 
+    this is the final dataset it evaluates and gives the accuracy values 
+    this evaluate recommender is used to evaluates a recommender model.
