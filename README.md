@@ -65,5 +65,5 @@ I have used the below modules for my experiment in the given order:
       this evaluate recommender is used to evaluates a recommender model.
       
       
-After creating, run the model by clicking run button in the bottom side. After running successfully, we can score and evaluate the model and After creating, run the model by clicking run button in the bottom side. After running successfully, we can score and evaluate the model.
-Deploy the model by Setting up Web Service in ML Studio. For first time select Update Predictive Experiment. after deployment of model, it can be used in webs.
+
+After creating, run the model by clicking run button in the bottom side. After running successfully, we can score and evaluate the model and Deploy the model by Setting up Web Service in ML Studio. For first time select Update Predictive Experiment. after deployment of model, it can be used in webs.
